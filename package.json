@@ -1,0 +1,24 @@
+{
+  "name": "nosql-social-media-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-hunt88/NoSQL-Social-Media-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-hunt88/NoSQL-Social-Media-Api/issues"
+  },
+  "homepage": "https://github.com/william-hunt88/NoSQL-Social-Media-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.12.5"
+  }
+}
